@@ -47,6 +47,61 @@
 
 ---
 
+### 🌍 Open Source Contributions
+
+<table>
+<tr>
+<td width="33%">
+
+**🏦 [bank_api_integration](https://github.com/aerele/bank_api_integration)**
+<br>⭐ 71 stars
+<br>Frappe app for bank API integration — the foundation for India Banking
+
+</td>
+<td width="33%">
+
+**👗 [apparelo](https://github.com/aerele/apparelo)**
+<br>⭐ 59 stars
+<br>Frappe app for garment manufacturing workflows
+
+</td>
+<td width="33%">
+
+**📊 [reconciler](https://github.com/aerele/reconciler)**
+<br>⭐ 17 stars
+<br>GSTR 2B vs Purchase Register reconciliation
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+**🏦 [bankingapi](https://github.com/aerele/bankingapi)**
+<br>⭐ 16 stars
+<br>Python library for Indian bank API integrations
+
+</td>
+<td width="33%">
+
+**🤖 [intelebot](https://github.com/aerele/intelebot)**
+<br>⭐ 15 stars
+<br>Telegram bot integration for Frappe & ERPNext
+
+</td>
+<td width="33%">
+
+**🏠 [real_estate](https://github.com/aerele/real_estate)**
+<br>⭐ 8 stars
+<br>Frappe app for real estate site bookings & payments
+
+</td>
+</tr>
+</table>
+
+> Building open source tools at **[@aerele](https://github.com/aerele)** — focused on Indian fintech, compliance, and manufacturing for the Frappe ecosystem.
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
