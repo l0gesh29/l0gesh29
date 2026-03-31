@@ -12,34 +12,81 @@
 
 ---
 
-### 🔥 What I'm Working On
+### 🏆 Frappe / ERPNext Core Contributor
+
+<div align="center">
+
+![PRs Merged](https://img.shields.io/badge/PRs_Merged_to_Frappe/ERPNext-63-blue?style=for-the-badge&logo=github)
+![Total PRs](https://img.shields.io/badge/Total_PRs-74-green?style=for-the-badge&logo=git)
+
+</div>
+
+Active contributor to **[frappe/frappe](https://github.com/frappe/frappe)**, **[frappe/erpnext](https://github.com/frappe/erpnext)**, and **[frappe/hrms](https://github.com/frappe/hrms)** — fixing accounting bugs, building timesheet billing features, improving payment reconciliation, and tightening accounting dimensions.
+
+**Recent highlights:**
+- ✅ `feat(timesheet)` — partial billing support in Sales Invoice
+- ✅ `fix(payment-recon)` — validation for outstanding in DR/CR
+- ✅ `fix(accounting-dimension)` — round-off GL entries failing fix
+- ✅ `fix(expense-claim)` — accounting dimension for payment GL
+
+<details>
+<summary>📋 View all 63 merged PRs →</summary>
+<br>
+
+🔗 [All merged PRs to frappe org](https://github.com/pulls?q=is%3Apr+author%3Al0gesh29+org%3Afrappe+is%3Amerged)
+
+</details>
+
+---
+
+### 🌍 Open Source @ Aerele
+
+> **288 merged PRs** across the **[@aerele](https://github.com/aerele)** ecosystem — Indian fintech, compliance, and manufacturing for Frappe.
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-**⚡ [Aerion](https://github.com/l0gesh29/aerion)** `private`
-<br>AI Agent platform for ERPNext. Zero-dependency Frappe app with sub-agent orchestration — 10 specialized accounting agents, custom ReAct loop, Claude Code CLI backend.
+**🏦 [india-banking](https://github.com/aerele/india-banking)**
+<br>⭐ 31
+<br><sub>ERPNext ↔ ICICI, HDFC, AXIS, YES, Kotak, HSBC. Vendor payouts, payroll, statement recon.</sub>
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-**🏦 [India Banking](https://github.com/aerele/india-banking)**
-<br>ERPNext ↔ Indian Banks integration. ICICI, HDFC, AXIS, YES Bank, Kotak, HSBC. Vendor payouts, payroll, statement reconciliation, virtual accounts.
+**🏦 [bank_api_integration](https://github.com/aerele/bank_api_integration)**
+<br>⭐ 71
+<br><sub>The original Frappe bank API integration — foundation for india-banking.</sub>
+
+</td>
+<td width="33%" align="center">
+
+**👗 [apparelo](https://github.com/aerele/apparelo)**
+<br>⭐ 59
+<br><sub>Garment manufacturing workflows for ERPNext.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-**🔧 [ERP Customization](https://github.com/l0gesh29/erp_customization)** `private`
-<br>Production-grade ERPNext overrides. Email dialog enhancements, item brochure management, auto-attachment workflows.
+**📊 [reconciler](https://github.com/aerele/reconciler)**
+<br>⭐ 17
+<br><sub>GSTR 2B vs Purchase Register reconciliation.</sub>
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-**📊 [Bank Reconciler](https://github.com/l0gesh29/reconciler)**
-<br>Reconciliation tool for GSTR 2B vs Purchase Register. Because manual matching at scale is pain.
+**🏦 [bankingapi](https://github.com/aerele/bankingapi)**
+<br>⭐ 16
+<br><sub>Python library for Indian bank API integrations.</sub>
+
+</td>
+<td width="33%" align="center">
+
+**🤖 [intelebot](https://github.com/aerele/intelebot)**
+<br>⭐ 15
+<br><sub>Telegram bot integration for Frappe & ERPNext.</sub>
 
 </td>
 </tr>
@@ -47,58 +94,24 @@
 
 ---
 
-### 🌍 Open Source Contributions
+### 🔥 What I'm Building Now
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-**🏦 [bank_api_integration](https://github.com/aerele/bank_api_integration)**
-<br>⭐ 71 stars
-<br>Frappe app for bank API integration — the foundation for India Banking
-
-</td>
-<td width="33%">
-
-**👗 [apparelo](https://github.com/aerele/apparelo)**
-<br>⭐ 59 stars
-<br>Frappe app for garment manufacturing workflows
+**⚡ [Aerion](https://github.com/l0gesh29/aerion)** `private`
+<br>AI Agent platform for ERPNext — 10 specialized accounting sub-agents, custom ReAct loop, zero external dependencies, Claude Code CLI backend.
 
 </td>
-<td width="33%">
+<td width="50%">
 
-**📊 [reconciler](https://github.com/aerele/reconciler)**
-<br>⭐ 17 stars
-<br>GSTR 2B vs Purchase Register reconciliation
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-**🏦 [bankingapi](https://github.com/aerele/bankingapi)**
-<br>⭐ 16 stars
-<br>Python library for Indian bank API integrations
-
-</td>
-<td width="33%">
-
-**🤖 [intelebot](https://github.com/aerele/intelebot)**
-<br>⭐ 15 stars
-<br>Telegram bot integration for Frappe & ERPNext
-
-</td>
-<td width="33%">
-
-**🏠 [real_estate](https://github.com/aerele/real_estate)**
-<br>⭐ 8 stars
-<br>Frappe app for real estate site bookings & payments
+**🔧 [ERP Customization](https://github.com/l0gesh29/erp_customization)** `private`
+<br>Production-grade ERPNext overrides. Email dialog enhancements, item brochure management, auto-attachment workflows.
 
 </td>
 </tr>
 </table>
-
-> Building open source tools at **[@aerele](https://github.com/aerele)** — focused on Indian fintech, compliance, and manufacturing for the Frappe ecosystem.
 
 ---
 
@@ -108,7 +121,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDVMMjIgN3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -120,18 +133,24 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=l0gesh29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=l0gesh29&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=l0gesh29&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0gesh29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=l0gesh29&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=l0gesh29&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0gesh29&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="35%" />
 
 </div>
 
@@ -141,13 +160,7 @@
 
 > *"Don't just automate the process — question whether the process should exist."*
 
-I build at **[Aerele Technologies](https://aerele.in)** where we make ERPNext do things it wasn't supposed to — banking integrations, AI agents, and custom workflows that actually survive production.
-
-**What drives me:**
-- 🏗️ Building tools that save businesses real hours, not demo hours
-- 🤖 Making AI useful inside ERP (not just a chatbot wrapper)
-- 🇮🇳 Indian banking + compliance automation (GST, TDS, bank APIs)
-- 🧹 Clean code that the next developer won't curse you for
+I build at **[Aerele Technologies](https://aerele.in)** — we make ERPNext do things it wasn't supposed to. Banking integrations, AI agents, and custom workflows that survive production.
 
 ---
 
