@@ -12,21 +12,6 @@
 
 ---
 
-```python
-class Logesh:
-    role = "Software Engineer → Building towards CTO"
-    company = "Aerele Technologies"
-    location = "Tirupur, India"
-    
-    daily_stack = ["Python", "JavaScript", "Frappe", "ERPNext", "MariaDB"]
-    exploring = ["AI Agents for ERP", "Banking APIs", "Process Automation"]
-    
-    def current_mission(self):
-        return "Making ERPNext smarter with AI — one agent at a time"
-```
-
----
-
 ### 🔥 What I'm Working On
 
 <table>
